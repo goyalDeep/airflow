@@ -181,7 +181,7 @@ We can add documentation for DAG or each single task. DAG documentation only sup
 markdown so far and task documentation support plain text, markdown, reStructuredText,
 json, yaml
 
-.. exampleinclude:: ../airflow/example_dags/tutorial.py
+ exampleinclude:: ../airflow/example_dags/tutorial.py
     :language: python
     :start-after: [START documentation]
     :end-before: [END documentation]
